@@ -1,0 +1,2 @@
+# omniScript
+scripts for omni
